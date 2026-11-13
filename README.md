@@ -1,6 +1,6 @@
-🧠 EduAgent IA
+🧠 EduAgent 
 
-O EduAgent IA é um dashboard educacional preditivo (SPA) desenhado para utilizar inteligência artificial na análise de notas, alertando sobre alunos em risco e gerando relatórios pedagógicos automáticos. O projeto simula um SaaS completo com planos Gratuito, Pro e Institucional.
+O EduAgent é um dashboard educacional preditivo (SPA) desenhado para utilizar inteligência artificial na análise de notas, alertando sobre alunos em risco e gerando relatórios pedagógicos automáticos. O projeto simula um SaaS completo com planos Gratuito, Pro e Institucional.
 
 Este projeto foi construído como um protótipo de Single Page Application (SPA) totalmente responsivo, demonstrando a viabilidade de uma plataforma educacional com diferentes níveis de acesso e monetização, sem a necessidade de um backend para testes visuais.
 
@@ -47,7 +47,7 @@ git clone https://github.com/seu-usuario/eduagent-ia.git
 
 Navegue até a pasta do projeto:
 
-cd eduagent-ia
+cd eduagent-
 
 
 Abra o arquivo EduAgent.html no seu navegador web de preferência (Chrome, Edge, Firefox, etc.).
